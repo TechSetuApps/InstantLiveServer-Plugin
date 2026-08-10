@@ -1,0 +1,27 @@
+{
+  "$schema": "https://acode.app/schema/plugin.json",
+  "id": "com.techsetuapps.instantweb.livepreviewer",
+  "name": "InstantLive Server",
+  "main": "main.js",
+  "version": "1.4.0",
+  "icon": "icon.png",
+  "license": "MIT",
+  "repository": "https://github.com/TechSetuApps/instantweb-livepreviewer",
+  "keywords": [
+    "live preview", "html live preview", "html preview",
+    "live server", "livepreviewer", "live previewer",
+    "instantlive", "instantweb", "localhost", "web preview",
+    "html", "css", "javascript", "preview",
+    "local server", "hot reload", "auto reload",
+    "html viewer", "web viewer", "browser preview", "frontend"
+  ],
+  "author": {
+    "name": "TechSetuApps",
+    "email": "techsetuapps@gmail.com",
+    "github": "TechSetuApps"
+  },
+  "readme": "readme.md",
+  "changelogs": "changelogs.md",
+  "minVersionCode": 292,
+  "price": 0
+}
