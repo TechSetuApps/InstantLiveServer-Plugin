@@ -1,3 +1,5 @@
+## v1.4.1
+- Setup video link added
 ## v1.4.0
 - Plugin renamed to InstantLive Server
 - Panel now sits above ACode quicktools bar

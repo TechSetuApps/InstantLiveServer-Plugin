@@ -3,7 +3,7 @@
   "id": "com.techsetuapps.instantweb.livepreviewer",
   "name": "InstantLive Server",
   "main": "main.js",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "icon": "icon.png",
   "license": "MIT",
   "repository": "https://github.com/TechSetuApps/instantweb-livepreviewer",

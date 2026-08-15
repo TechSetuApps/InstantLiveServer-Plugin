@@ -18,7 +18,10 @@ Download InstantLiveServer:
 ## Video Tutorial
 
 Watch the short setup guide on YouTube:
-[youtube.com/shorts/fgUvjvr78O4](https://youtube.com/shorts/fgUvjvr78O4)
+[Short Video](https://youtube.com/shorts/fgUvjvr78O4)
+
+Watch the long setup guide on YouTube:
+[Long Video](https://youtu.be/DkSCHwcYsRA?si=TVjHJMHLi6V8zTNY)
 
 ---
 
