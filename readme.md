@@ -10,7 +10,7 @@ Live preview your HTML, CSS, and JavaScript <br> files directly inside ACode —
 
 This plugin requires the **InstantLiveServer** app (v1.4.0 or above) to function. InstantLiveServer <br> runs a local HTTP server on your Android device <br> that serves your HTML, CSS, and JS files.
 
-[![Download](https://img.shields.io/badge/Download-InstantLiveServer-181717?logo=github&logoColor=white)](https://github.com/TechSetuApps/InstantLiveServer/releases/tag/v1.4.0)
+[![Download](https://img.shields.io/badge/Download-InstantLiveServer-181717?logo=github&logoColor=white)](https://github.com/TechSetuApps/InstantLiveServer/releases/latest)
 
 
 ---
@@ -125,7 +125,7 @@ For feedback or bug reports [![Create A Issue](https://img.shields.io/badge/Inst
 
 **TechSetuApps**
 Darbhanga, Bihar, India
-techsetuapps@gmail.com
+techsetuappsofficial@gmail.com
 [github.com/TechSetuApps](https://github.com/TechSetuApps)
 
 ---

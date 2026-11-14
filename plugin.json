@@ -3,7 +3,7 @@
   "id": "com.techsetuapps.instantweb.livepreviewer",
   "name": "InstantLiveServer-Plugin",
   "main": "main.js",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "icon": "icon.png",
   "license": "MIT",
   "repository": "https://github.com/TechSetuApps/InstantLiveServer-Plugin",
@@ -17,7 +17,7 @@
   ],
   "author": {
     "name": "TechSetuApps",
-    "email": "techsetuapps@gmail.com",
+    "email": "techsetuappsofficial@gmail.com",
     "github": "TechSetuApps"
   },
   "readme": "readme.md",

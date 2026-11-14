@@ -1,6 +1,6 @@
-// InstantWeb LivePreviewer v1.3.0 — by TechSetuApps
+// InstantWeb LivePreviewer v1.4.4 — by TechSetuApps
 const PLUGIN_ID   = 'com.techsetuapps.instantweb.livepreviewer';
-const AMAZON_LINK = 'https://github.com/TechSetuApps/InstantLiveServer/releases/tag/v1.4.0';
+const AMAZON_LINK = 'https://github.com/TechSetuApps/InstantLiveServer/releases/latest';
 
 // Port — user saved port ya default 7090
 function getSavedPort() {

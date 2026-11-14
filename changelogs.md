@@ -1,5 +1,10 @@
+## v1.4.4
+- **Contact email** updated to techsetuappsofficial@gmail.com
+- **Download links** now point to the latest InstantLive Server release
+- **Released alongside** InstantLive Server app v1.4.1
+
 ## v1.4.3
-- **README** and **Mainfest** Updated
+- **README** and **Manifest** Updated
 ## v1.4.2
 - **README** Updated
 ## v1.4.1
